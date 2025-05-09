@@ -1,0 +1,5 @@
+Flask==2.2.5
+tensorflow==2.12.0
+ckiptagger==0.2.1
+opencc==1.1.1
+gdown==4.7.1
